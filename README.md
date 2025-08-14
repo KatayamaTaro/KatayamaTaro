@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi there, I'm Taro Katayama! 🌊🦎🌿
 
 ## 🏞️ About Me
