@@ -50,36 +50,6 @@
 - **Trend Analysis**: Identifying long-term ecological patterns using 20+ years of monitoring data
 - **Predictive Modeling**: Using environmental data to forecast species abundance changes
 
-## 🌟 Key R Packages I Use
-
-```r
-# Data manipulation & analysis
-library(tidyverse)
-library(dplyr)
-library(lubridate)
-library(readr)
-
-# Visualization
-library(ggplot2)
-library(plotly)
-library(leaflet)
-
-# Web applications
-library(shiny)
-library(shinydashboard)
-library(shinyWidgets)
-
-# Spatial analysis
-library(sf)
-library(raster)
-library(mapview)
-
-# Reporting
-library(rmarkdown)
-library(knitr)
-library(kableExtra)
-```
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taro_katayama@nps.gov)
