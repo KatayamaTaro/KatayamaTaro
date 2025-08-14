@@ -91,11 +91,6 @@ library(sf)
 library(raster)
 library(mapview)
 
-# Statistical analysis
-library(vegan)
-library(lme4)
-library(mgcv)
-
 # Reporting
 library(rmarkdown)
 library(knitr)
