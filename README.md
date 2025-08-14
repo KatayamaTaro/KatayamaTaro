@@ -80,13 +80,6 @@ library(knitr)
 library(kableExtra)
 ```
 
-## 📚 Recent Learning
-
-- **Advanced R Shiny**: Building more sophisticated reactive applications
-- **GitHub Actions**: Automating R script execution and report generation
-- **Spatial Analysis**: Improving GIS integration with R workflows  
-- **Time Series Analysis**: Better trend detection in long-term ecological data
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taro_katayama@nps.gov)
