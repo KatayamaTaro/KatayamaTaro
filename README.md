@@ -50,20 +50,6 @@
 - **Trend Analysis**: Identifying long-term ecological patterns using 20+ years of monitoring data
 - **Predictive Modeling**: Using environmental data to forecast species abundance changes
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatayamaTaro&show_icons=true&theme=forest&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatayamaTaro&theme=forest)
-
-</div>
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KatayamaTaro&theme=react-dark&bg_color=0D1117&color=79C99B&line=79C99B&point=79C99B)
-
-
 ## 🌟 Key R Packages I Use
 
 ```r
