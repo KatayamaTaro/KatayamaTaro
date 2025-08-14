@@ -7,8 +7,6 @@
 - 📊 Currently working on **automating monitoring programs** and **data visualization** for park ecological data
 - 🦋 I help run several **long-term monitoring programs** tracking biodiversity and ecosystem health
 - 📈 Passionate about identifying **ecological trends** and creating **interactive dashboards** for park data
-- 🌱 Always learning new ways to **streamline field data collection** and **automate repetitive analyses**
-- 💬 Ask me about **tidyverse**, **ecological data visualization**, **R Shiny dashboards**, or **National Park monitoring protocols**
 
 ## 🛠️ Technologies & Tools
 
