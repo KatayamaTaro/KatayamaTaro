@@ -61,12 +61,12 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatayamaTaro&theme=forest)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KatayamaTaro=yourusername&layout=compact&theme=forest&hide=tex,makefile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KatayamaTaro=KatayamaTaro&layout=compact&theme=forest&hide=tex,makefile)
 
 </div>
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?KatayamaTaro=yourusername&theme=react-dark&bg_color=0D1117&color=79C99B&line=79C99B&point=79C99B)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?KatayamaTaro=KatayamaTaro&theme=react-dark&bg_color=0D1117&color=79C99B&line=79C99B&point=79C99B)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KatayamaTaro&theme=forest&no-frame=false&no-bg=false&margin-w=4&column=3)
