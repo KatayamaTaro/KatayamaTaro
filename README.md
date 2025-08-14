@@ -36,20 +36,6 @@
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🔬 Current Monitoring Programs
-
-- 🐦 **Shorebird Monitoring Program** - Long-term bird population monitoring spanning over 35 years!
-- 🌊 **Intertidal Monitoring Program** - Inventory and Monitoring program
-- 🌡️ **Fog Monitoring** - Weather station data collection and analysis
-
-## 📊 Featured Projects
-
-### 🎯 Current Focus Areas
-- **Automated Data Pipelines**: Converting manual data entry to streamlined R workflows
-- **Interactive Dashboards**: Building R Shiny apps for real-time park data visualization
-- **Trend Analysis**: Identifying long-term ecological patterns using 20+ years of monitoring data
-- **Predictive Modeling**: Using environmental data to forecast species abundance changes
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taro_katayama@nps.gov)
