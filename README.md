@@ -66,10 +66,8 @@
 </div>
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?KatayamaTaro=KatayamaTaro&theme=react-dark&bg_color=0D1117&color=79C99B&line=79C99B&point=79C99B)
+![GitHub Activity Graph]((https://github-readme-activity-graph.vercel.app/graph?username=KatayamaTaro&theme=react-dark&bg_color=0D1117&color=79C99B&line=79C99B&point=79C99B))
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KatayamaTaro&theme=forest&no-frame=false&no-bg=false&margin-w=4&column=3)
 
 ## 🌟 Key R Packages I Use
 
