@@ -25,7 +25,6 @@
 ### Documentation & Reporting
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Data Management & Version Control
