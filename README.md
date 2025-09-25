@@ -8,7 +8,7 @@
 - 🦋 I help run several **long-term monitoring programs** tracking biodiversity and ecosystem health
 - 📈 Passionate about identifying **ecological trends** and creating **interactive dashboards** for park data
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Data Analysis & Statistics
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taro_katayama@nps.gov)
 
