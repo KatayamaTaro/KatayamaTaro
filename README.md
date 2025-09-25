@@ -1,6 +1,6 @@
-# Hi there, I'm Taro Katayama! 🌊🦎🌿
+# Hi there, I'm Taro Katayama
 
-## 🏞️ About Me
+##  About Me
 **Biologist | National Park Service | Cabrillo National Monument**
 
 - 🔬 I'm a biologist with the National Park Service at **Cabrillo National Monument** in San Diego, CA
