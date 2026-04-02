@@ -1,4 +1,4 @@
-# Hi there, I'm Taro Katayama
+# Taro Katayama
 
 ##  About Me
 **Biologist | National Park Service | Cabrillo National Monument**
