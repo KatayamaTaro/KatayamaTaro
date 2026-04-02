@@ -1,6 +1,4 @@
 # Taro Katayama
-
-##  About Me
 **Biologist | National Park Service | Cabrillo National Monument**
 
 - I'm a biologist with the National Park Service at **Cabrillo National Monument** in San Diego, CA
