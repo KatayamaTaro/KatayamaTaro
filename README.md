@@ -3,10 +3,10 @@
 ##  About Me
 **Biologist | National Park Service | Cabrillo National Monument**
 
-- 🔬 I'm a biologist with the National Park Service at **Cabrillo National Monument** in San Diego, CA
-- 📊 Currently working on **automating monitoring programs** and **data visualization** for park ecological data
-- 🦋 I help run several **long-term monitoring programs** tracking biodiversity and ecosystem health
-- 📈 Passionate about identifying **ecological trends** and creating **interactive dashboards** for park data
+- I'm a biologist with the National Park Service at **Cabrillo National Monument** in San Diego, CA
+-  Currently working on **automating monitoring programs** and **data visualization** for park ecological data
+-  I help run several **long-term monitoring programs** tracking biodiversity and ecosystem health
+- Passionate about identifying **ecological trends** and creating **interactive dashboards** for park data
 
 ## Technologies & Tools
 
